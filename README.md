@@ -6,4 +6,4 @@ Course: CPP102 - Programming Logic and Design
 Activity Title; Introduction to Python, Git, and GitHub
 
 ## Reflection
-Write 2 to 3 sentences about why Git and Github are useful for programming students.
+git hub is essential tool for modern sofware development.Github helps to coding online.
